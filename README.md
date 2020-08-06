@@ -1,7 +1,6 @@
 Olá 👋
 
-Estou utilizando este repositório para hospedar um de meus projetos, enquanto não possuo um portfólio pessoal.
-Caso queira acessar o repositório do projeto, o endereço é este: https://github.com/andrelara2002/Empty_List_Website
+Estou fazendo esse repositório como meu primeiro projeto pessoal, infelizmente não tenho tanta experiência com design de interfaces, então o projeto pode acabar parecendo estranho para uma primeira vista. Os códigos são feitos em javascript, com manipulação dos elementos html e css.
 
 -----------------------------------------------------------------------------------------
 
