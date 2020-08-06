@@ -1,9 +1,7 @@
-Olá, esse é o primeiro projeto de website que estou desenvolvendo por conta própria,
-uma lista de atividades que utiliza javascript, html e css para funcionar maneira simples
-e objetiva.
+Olá 👋
 
-Espero que gostem, caso existam sugestões peço que ajudem a melhorar cada vez mais este
-trabalho. Obrigado
+Estou utilizando este repositório para hospedar um de meus projetos, enquanto não possuo um portfólio pessoal.
+Caso queira acessar o repositório do projeto, o endereço é este: https://github.com/andrelara2002/Empty_List_Website
 
 -----------------------------------------------------------------------------------------
 
@@ -16,3 +14,9 @@ v1.01
 listas quando o navegador for reiniciado.
 - Tecla enter agora envia os dados para a página
 - Perfil do Github adicionado
+
+v1.02
+- Interface agora responsiva
+- Corrigindo erros de design
+- Primeira versão da tela mobile funcional
+Obrigado 😁

@@ -11,10 +11,6 @@ const buttonSendElement = document.getElementById('button-send')
 
 //Listas e variáveis
 const states = JSON.parse(localStorage.getItem('local_list')) || []
-const personal_info = {
-    username: 'username',
-    perfil_image: 'src'
-}
 
 //Definição dos botões
 buttonSendElement.onclick = () => {
@@ -27,10 +23,6 @@ inputElement.addEventListener('keydown', (e) =>{
     }
 } )
 
-buttonPlusElement.onclick = () => {
-    alert(`${inputElement.value} adicionado`)
-}
-
 //Função inicial de renderizaçào
 render = () => {
     //Analisando se a lista deve aparecer
@@ -40,6 +32,8 @@ render = () => {
     
     listElement.innerHTML = ''
     addImageElement()
+    
+    inputElement.focus()
     addToState()
 
     //Criando lista de atividades

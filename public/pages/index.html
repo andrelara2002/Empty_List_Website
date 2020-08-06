@@ -1,26 +1,25 @@
 <!DOCTYPE html>
 <html lang="pt-br">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="../styles/main.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Archivo">
-    <title>Tyou du</title>
+    <title>Empty list</title>
 </head>
+
 <body>
     <div class="container">
         <header>
             <div class="header-content">
-                <img src="../../images/Logo-img.svg" alt="logo">
-                <div class="personal-info">
-                    <a href="https://github.com/andrelara2002"><img src="/images/Github.svg" alt="Github: andrelara2002"></a>
-                </div>
-                <h1>Sua lista interativa</h1>
+                <img src="/images/Logo-img.svg" id="logo-img" alt="logo"></img>
+                <a href="https://github.com/andrelara2002"><img src="/images/Github.svg" alt="Github: andrelara2002" id="personal-info"></a>
             </div>
         </header>
         <main>
             <div class="img-div" id="img-div">
-                
+
             </div>
             <div class='main-container' hidden='true' id="divListElement">
                 <ul>
@@ -29,7 +28,7 @@
             </div>
             <form action="" class="form-container">
                 <input type="text" tabindex="0" placeholder="insira suas notas">
-                <img src="/images/icons/plus-icon.png" alt="Adicionar Categoria" id="button-plus">
+                <div class="buttons-space"></div>
                 <img src="/images/icons/enter-icon.png" alt="Enviar" id="button-send" tabindex="1">
             </form>
         </main>
@@ -37,4 +36,5 @@
 
     <script src="../../src/main.js"></script>
 </body>
+
 </html>
