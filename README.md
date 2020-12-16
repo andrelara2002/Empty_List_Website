@@ -27,4 +27,4 @@ v2.0
 - Implementação de várias listas
 - Desconstrução do projeto
 - Reconstrução em ReactJs
-- Link do novo Projeto: https://github.com/andrelara2002/EmptyList-ReactJs.git*
+- Link do novo Projeto: https://github.com/andrelara2002/EmptyList-ReactJs.git
