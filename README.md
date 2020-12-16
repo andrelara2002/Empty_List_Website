@@ -19,3 +19,12 @@ v1.02
 - Corrigindo erros de design
 - Primeira versão da tela mobile funcional
 Obrigado 😁
+
+-----------------------------------------------------------------------------------------
+
+v2.0
+- Divisão do projeto em Mini/Full
+- Implementação de várias listas
+- Desconstrução do projeto
+- Reconstrução em ReactJs
+- Link do novo Projeto: https://github.com/andrelara2002/EmptyList-ReactJs.git*
